@@ -22,8 +22,8 @@ namespace WindowsFormsApplication7
         public kirat()
         {
             InitializeComponent();
-            _x = 10;
-            _y = 10;
+            _x = 20;
+            _y = 20;
             _objPosition = Position.Right;
         }
 
